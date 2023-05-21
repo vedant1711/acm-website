@@ -26,7 +26,7 @@ html{
     margin: auto;
     margin-bottom: 2rem;
 }
-#row1,#row2,#row3,#row4,#row5{
+.row{
     margin: 2.5rem 1rem;
 }
 .teambox{
